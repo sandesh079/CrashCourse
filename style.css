@@ -1,0 +1,19 @@
+h2 {
+    color: red;
+}
+
+.mystyle {
+    color: rgba(36, 69, 201, 0.5);
+}
+
+#myselector {
+    color: maroon;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
